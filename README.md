@@ -4,4 +4,5 @@
 
 - 🔭 hoje trabalho com Front-end
 - 🌱 Estudando Typescript
+- 📫 farlei86@hotmail.com
 
